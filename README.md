@@ -1,4 +1,4 @@
-![image](https://github.com/444805948/TaskMate/assets/148714246/4a95ca3e-cc22-4091-bbae-5711f17484a8)![image](https://github.com/444805948/TaskMate/assets/148714246/6ce45c83-a876-4a2d-b5ca-994da9715269)# Introducing Task Management App
+# Introducing Task Management App
 
 TaskMate is more than just a task management app; it's your personal productivity companion. Designed for the Android platform, TaskMate is the ultimate solution for organizing and optimizing your daily tasks. With a seamless integration of espresso-core and recyclerview, TaskMate offers a sleek, intuitive interface combined with robust functionality.
 
