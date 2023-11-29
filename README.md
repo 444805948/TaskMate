@@ -40,21 +40,21 @@ TaskMate stands out as the go-to productivity app, offering a seamless, intuitiv
 
 Contributors
 
-•	اريام علي محمد عسيري 
+•	Aryam Ali Mohammed Asiri
 
-•	ريناس علي معدي ال منيع
+•	Rinas Ali Muaddi Asiri
 
-•	عبير زايد محمد آل زياد
+•	Abeer Zayed Mohammed AL Ziyad
 
-•	العنود ناصر احمد شعبان
+•	ALAnoud Nasser Ahmed Asiri
 
-•	نوف إبراهيم احمد
+•	Nouf Ibrahim Ahmed AL Sharayf
 
-•	اميره حسن جابر عسيري
+•	Amirah Hassan Jaber Asiri
 
+Section 124
 
  contact us
-
 444805948@kku.edu.sa
 
 
