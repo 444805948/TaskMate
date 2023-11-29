@@ -52,7 +52,6 @@ Contributors
 
 •	Amirah Hassan Jaber Asiri
 
-Section 124
 
  contact us
 444805948@kku.edu.sa
